@@ -1,3 +1,3 @@
-# To be Edited soon
+# Home Landing Page
 
 <img src="design/active-states.jpg" />
